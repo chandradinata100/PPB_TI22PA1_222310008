@@ -25,7 +25,7 @@ class MyFriend extends Component {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#F5C0BF",
+        backgroundColor: "black",
     },
     header: {
         flex: 1,

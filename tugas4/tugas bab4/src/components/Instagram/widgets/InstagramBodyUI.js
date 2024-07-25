@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
   },
   image: {
     width: '100%', 
-    aspectRatio: 3 / 4, // Menambahkan aspectRatio untuk menjaga rasio potret 3:4
+    aspectRatio: 3 / 4, 
     resizeMode: "cover",
     marginBottom: 5,
   },
